@@ -1,0 +1,14 @@
+c:\users\güray\documents\visual studio 2015\Projects\DomainModel\MySqlDatabase\bin\Debug\MySqlDatabase.dll.config
+c:\users\güray\documents\visual studio 2015\Projects\DomainModel\MySqlDatabase\bin\Debug\MySqlDatabase.dll
+c:\users\güray\documents\visual studio 2015\Projects\DomainModel\MySqlDatabase\bin\Debug\MySqlDatabase.pdb
+c:\users\güray\documents\visual studio 2015\Projects\DomainModel\MySqlDatabase\bin\Debug\DomainModel.dll
+c:\users\güray\documents\visual studio 2015\Projects\DomainModel\MySqlDatabase\bin\Debug\EntityFramework.dll
+c:\users\güray\documents\visual studio 2015\Projects\DomainModel\MySqlDatabase\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\güray\documents\visual studio 2015\Projects\DomainModel\MySqlDatabase\bin\Debug\MySqlDatabaseInterfaces.dll
+c:\users\güray\documents\visual studio 2015\Projects\DomainModel\MySqlDatabase\bin\Debug\DomainModel.pdb
+c:\users\güray\documents\visual studio 2015\Projects\DomainModel\MySqlDatabase\bin\Debug\MySqlDatabaseInterfaces.pdb
+c:\users\güray\documents\visual studio 2015\Projects\DomainModel\MySqlDatabase\bin\Debug\EntityFramework.xml
+c:\users\güray\documents\visual studio 2015\Projects\DomainModel\MySqlDatabase\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\güray\documents\visual studio 2015\Projects\DomainModel\MySqlDatabase\obj\Debug\MySqlDatabase.csprojResolveAssemblyReference.cache
+c:\users\güray\documents\visual studio 2015\Projects\DomainModel\MySqlDatabase\obj\Debug\MySqlDatabase.dll
+c:\users\güray\documents\visual studio 2015\Projects\DomainModel\MySqlDatabase\obj\Debug\MySqlDatabase.pdb

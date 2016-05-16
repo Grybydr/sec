@@ -1,0 +1,7 @@
+c:\Users\Güray\documents\visual studio 2015\Projects\DomainModel\MySqlDatabaseInterfaces\bin\Debug\MySqlDatabaseInterfaces.dll
+c:\Users\Güray\documents\visual studio 2015\Projects\DomainModel\MySqlDatabaseInterfaces\bin\Debug\MySqlDatabaseInterfaces.pdb
+c:\Users\Güray\documents\visual studio 2015\Projects\DomainModel\MySqlDatabaseInterfaces\bin\Debug\DomainModel.dll
+c:\Users\Güray\documents\visual studio 2015\Projects\DomainModel\MySqlDatabaseInterfaces\bin\Debug\DomainModel.pdb
+c:\Users\Güray\documents\visual studio 2015\Projects\DomainModel\MySqlDatabaseInterfaces\obj\Debug\MySqlDatabaseInterfaces.csprojResolveAssemblyReference.cache
+c:\Users\Güray\documents\visual studio 2015\Projects\DomainModel\MySqlDatabaseInterfaces\obj\Debug\MySqlDatabaseInterfaces.dll
+c:\Users\Güray\documents\visual studio 2015\Projects\DomainModel\MySqlDatabaseInterfaces\obj\Debug\MySqlDatabaseInterfaces.pdb
